@@ -1,7 +1,7 @@
 FREECAD PER LA STAMPA 3D
 Lezione 00: Chi sono e Cosa andiamo ad imparare… una breve presentazione
 
-Benvenuti a tutti, sono Maurizio Spaccialbelli e questa lezione di presentazione la trovi anche su [YouTube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGS1SGfFDtfCbMwSAmQj7fuA) o in PDF su [Gumroad](https://gumroad.com/mauriziospacciabelli/follow) .
+Benvenuti a tutti, sono Maurizio Spaccialbelli e questa lezione di presentazione la trovi anche su [YouTube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGS1SGfFDtfCbMwSAmQj7fuA) o in PDF su [Gumroad](https://gum.co/FbchJY) .
 
 Tutti i miei progetti e tutorial sono rilasciati sotto licenza libera, il tuo aiuto è fondamentale! Supporta i miei lavori sul canale che preferisci… Grazie Mille!
 * [Gumroad](https://gumroad.com/mauriziospacciabelli/follow): Con piccole donazioni puoi scaricare file da me ottimizzati.
