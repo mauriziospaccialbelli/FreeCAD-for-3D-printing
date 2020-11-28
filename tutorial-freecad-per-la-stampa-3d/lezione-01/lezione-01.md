@@ -1,7 +1,7 @@
 FREECAD PER LA STAMPA 3D
 Lezione 01: Oggetti Solido e Shell di tipo Cad e Mesh, Formati e modellatori 3D
 
-Benvenuti a tutti, sono Maurizio Spaccialbelli, questa lezione la trovi anche su [YouTube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGS1SGfFDtfCbMwSAmQj7fuA) o in PDF su [Gumroad]() .
+Benvenuti a tutti, sono Maurizio Spaccialbelli, questa lezione la trovi anche su [YouTube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGS1SGfFDtfCbMwSAmQj7fuA) o in PDF su [Gumroad](https://gum.co/freecad-per-la-stampa-3d-01) .
 
 Tutti i miei progetti e tutorial sono rilasciati sotto licenza libera, il tuo aiuto è fondamentale! Supporta i miei lavori sul canale che preferisci… Grazie Mille!
 * [Gumroad](https://gumroad.com/mauriziospacciabelli/follow): Con piccole donazioni puoi scaricare file da me ottimizzati.
