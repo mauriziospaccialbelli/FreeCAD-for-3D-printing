@@ -1,7 +1,7 @@
 FREECAD PER LA STAMPA 3D
 Lezione 02: Tassellazione oggetti Cad, linee nascoste, le normali
 
-Benvenuti a tutti, questa lezione la trovi su [YouTube]() e in PDF su [Gumroad]() .
+Benvenuti a tutti, questa lezione la trovi su [YouTube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGS1SGfFDtfCbMwSAmQj7fuA) e in PDF su [Gumroad](https://gum.co/freecad-per-la-stampa-3d-02) .
 
 Tutti i miei progetti e tutorial sono rilasciati sotto licenza libera, il tuo aiuto è fondamentale! Supporta i miei lavori sul canale che preferisci… Grazie Mille!
 * [Gumroad](https://gumroad.com/mauriziospacciabelli/follow): Con piccole donazioni puoi scaricare file da me ottimizzati.
